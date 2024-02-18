@@ -1,4 +1,4 @@
-# blood_pressure_app
+# Blood_Pressure_Monitoring_app
 
 #Created by Deemantha Bandara
 #21UG0996
